@@ -1,0 +1,2 @@
+# ResmiGazeteApp
+React Native
