@@ -1,0 +1,36 @@
+{
+  "users": [],
+  "publications": [],
+  "categories": [
+    {
+      "id": "c1aec747-d3b4-48f5-b632-7ee2ae29a438",
+      "name": "Ekonomi",
+      "description": "Ekonomi ile ilgili resmi gazete yayınları",
+      "created_at": "2025-03-13T00:16:10.031529",
+      "updated_at": "2025-03-13T00:16:10.031529"
+    },
+    {
+      "id": "1f4f4448-7ffe-42d4-bf7d-d63bfc2b71f6",
+      "name": "Eğitim",
+      "description": "Eğitim ile ilgili resmi gazete yayınları",
+      "created_at": "2025-03-13T00:16:10.031529",
+      "updated_at": "2025-03-13T00:16:10.031529"
+    },
+    {
+      "id": "d543ca78-2696-4d8e-9b5a-5f43a914a716",
+      "name": "Sağlık",
+      "description": "Sağlık ile ilgili resmi gazete yayınları",
+      "created_at": "2025-03-13T00:16:10.031529",
+      "updated_at": "2025-03-13T00:16:10.031529"
+    },
+    {
+      "id": "ccd8d877-3b5f-4fc4-9cf1-cfcabe2b12cf",
+      "name": "Hukuk",
+      "description": "Hukuk ve adalet ile ilgili resmi gazete yayınları",
+      "created_at": "2025-03-13T00:16:10.031529",
+      "updated_at": "2025-03-13T00:16:10.031529"
+    }
+  ],
+  "favorites": [],
+  "notifications": []
+}
