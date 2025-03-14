@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197735022486",
+    "project_id": "react-app-768a8",
+    "storage_bucket": "react-app-768a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197735022486:android:ee214d911a5624d6c527b7",
+        "android_client_info": {
+          "package_name": "com.OfficialGazetteCategorizationApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dVWY6pR22Jx5vt7-4zGBVuMpbIH8j0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
